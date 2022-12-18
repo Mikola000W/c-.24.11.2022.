@@ -1,0 +1,15 @@
+C:\Users\mikiw\source\repos\24.11.2022\24.11.2022\bin\Debug\net6.0\24.11.2022.exe
+C:\Users\mikiw\source\repos\24.11.2022\24.11.2022\bin\Debug\net6.0\24.11.2022.deps.json
+C:\Users\mikiw\source\repos\24.11.2022\24.11.2022\bin\Debug\net6.0\24.11.2022.runtimeconfig.json
+C:\Users\mikiw\source\repos\24.11.2022\24.11.2022\bin\Debug\net6.0\24.11.2022.dll
+C:\Users\mikiw\source\repos\24.11.2022\24.11.2022\bin\Debug\net6.0\24.11.2022.pdb
+C:\Users\mikiw\source\repos\24.11.2022\24.11.2022\obj\Debug\net6.0\24.11.2022.csproj.AssemblyReference.cache
+C:\Users\mikiw\source\repos\24.11.2022\24.11.2022\obj\Debug\net6.0\24.11.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikiw\source\repos\24.11.2022\24.11.2022\obj\Debug\net6.0\24.11.2022.AssemblyInfoInputs.cache
+C:\Users\mikiw\source\repos\24.11.2022\24.11.2022\obj\Debug\net6.0\24.11.2022.AssemblyInfo.cs
+C:\Users\mikiw\source\repos\24.11.2022\24.11.2022\obj\Debug\net6.0\24.11.2022.csproj.CoreCompileInputs.cache
+C:\Users\mikiw\source\repos\24.11.2022\24.11.2022\obj\Debug\net6.0\24.11.2022.dll
+C:\Users\mikiw\source\repos\24.11.2022\24.11.2022\obj\Debug\net6.0\refint\24.11.2022.dll
+C:\Users\mikiw\source\repos\24.11.2022\24.11.2022\obj\Debug\net6.0\24.11.2022.pdb
+C:\Users\mikiw\source\repos\24.11.2022\24.11.2022\obj\Debug\net6.0\24.11.2022.genruntimeconfig.cache
+C:\Users\mikiw\source\repos\24.11.2022\24.11.2022\obj\Debug\net6.0\ref\24.11.2022.dll
